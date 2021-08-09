@@ -33,6 +33,7 @@ public class Main {
         calculatorEngineering.atan(78);
         calculatorEngineering.acot(90);
         calculatorEngineering.mod(8,1);
+        calculatorEngineering.multiplication(7,8);
 
     }
 }
