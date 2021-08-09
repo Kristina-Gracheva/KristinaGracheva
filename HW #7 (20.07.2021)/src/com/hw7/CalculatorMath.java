@@ -1,30 +1,6 @@
 package com.hw7;
 
 public class CalculatorMath extends Calculator {
-    @Override
-    public void addition(int a, int b) {
-        super.addition(a, b);
-    }
-
-    @Override
-    public void subtraction(int a, int b) {
-        super.subtraction(a, b);
-    }
-
-    @Override
-    public void multiplication(int a, int b) {
-        super.multiplication(a, b);
-    }
-
-    @Override
-    public void division(int a, int b) {
-        super.division(a, b);
-    }
-
-    @Override
-    public void percent(int a, int b) {
-        super.percent(a, b);
-    }
 
     public void exponentiation(int a, int b){
         int result = (int) Math.pow(a,b);
